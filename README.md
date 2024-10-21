@@ -1,1 +1,1 @@
-I will eventually change this portfolio into a public repository called my_username.github.io
+I will eventually change the portfolio name into my_username.github.io
